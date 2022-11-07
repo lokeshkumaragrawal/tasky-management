@@ -1,5 +1,5 @@
 # tasky-management
-#Tasky Management ✔This Tasky Management mainly contains 4 technology 
+#Tasky Management ✔This Tasky Management mainly contains 4 technologys 
 👍 HTML
 👍CSS 
 👍JAVASCRIPT
