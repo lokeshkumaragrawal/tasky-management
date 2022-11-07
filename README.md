@@ -15,4 +15,6 @@
 
 ✔In JAVASCRIPT
     ✔ An Array of tasklist is declared ( for keeping task)
+    ✔ And taking imageurl link, task title ,type and description from the user.
+    ✔ And storing these details to local storage.
     
